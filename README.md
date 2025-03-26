@@ -10,4 +10,5 @@
     - Git commands  
 # OSSPrac
 fetch & merge
-A
+A  
+B  
