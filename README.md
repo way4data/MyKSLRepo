@@ -1,6 +1,6 @@
 # MyKSLRepo
 ## My First Repo
-- Date: 2025. 3. 24 16  
+- Date: 2025. 3. 31.  
     - Author: Kilsup Lee, 200012345  
 - Subject: OSS Practice  
 - Classroom: 다향관 103
